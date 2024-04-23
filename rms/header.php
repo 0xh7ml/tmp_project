@@ -21,13 +21,13 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="/dashboard.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/rms/add_item.php">Add item</a>
+          <a class="nav-link" href="/add_item.php">Add item</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/rms/menu.php">Item list</a>
+          <a class="nav-link" href="/menu.php">Item list</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Create order</a>
