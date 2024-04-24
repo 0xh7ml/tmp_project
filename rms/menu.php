@@ -5,11 +5,11 @@ include('header.php');
         <div class="row">
             <div class="d-flex flex-row justify-content-between mt-2 mb-2">
 
-                <h3>Item List</h3>
+                <h3 class="text-light">Item List</h3>
 
                 <form class="d-flex" role="search" method="POST">
                 <input class="form-control me-2" type="search" placeholder="Search by Item name" aria-label="Search" name="search">
-                <button class="btn btn-outline-success" type="submit">Search</button>
+                <button class="btn btn-success" type="submit">Search</button>
                 </form>
 
             </div>

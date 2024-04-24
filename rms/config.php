@@ -1,7 +1,7 @@
 <?php
 $server = 'localhost';
 $user = 'root';
-$pass = '';
+$pass = 'root';
 $db = 'db_rms';
 
 
